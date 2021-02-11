@@ -11,3 +11,5 @@ Catty is an object oriented, cross-platform, and ultimately localizable programm
 
 
 **For those who cannot use the embed**: [**Click here**](https://discord.gg/ypcMSagbtv)
+### Our Youtube Channel
+[**Click Here to Access**(https://www.youtube.com/channel/UCcp21eXmsQcbNIzbkZPpOeQ)](https://www.youtube.com/channel/UCcp21eXmsQcbNIzbkZPpOeQ)
