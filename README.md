@@ -6,7 +6,7 @@ Catty is an object oriented, cross-platform, and ultimately localizable programm
 (being built)
 
 ### Join our Discord server:
-[<iframe src="https://canary.discord.com/widget?id=809302664914796546&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.gg/ypcMSagbtv)
-**(Just click the embed)**
+<iframe src="https://canary.discord.com/widget?id=809302664914796546&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 **For those who cannot use the embed**: [**Click here**](https://discord.gg/ypcMSagbtv)
