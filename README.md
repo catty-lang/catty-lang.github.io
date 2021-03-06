@@ -2,7 +2,6 @@
 
 Catty is an object oriented, cross-platform, and ultimately localizable programming language designed by Yiğit Cemal Öztürk. It is like a C++ copy with some features added from C#, but that is just the appearance.
 
-<script src="https://gist.github.com/CadmiumC4/441e80663909a0a40e7554a16fc9bafe.js"></script>
 
 ### Getting started
 (being built)
