@@ -19,3 +19,5 @@ Catty is an object oriented, cross-platform, and ultimately localizable programm
 ](https://www.youtube.com/channel/UCcp21eXmsQcbNIzbkZPpOeQ)
 
 
+### Social
+[![Git repository](https://github.com/CattyLang/cattylang.github.io/blob/main/cdn/images/Git-Icon-Black.svg)](https://github.com/CattyLang) 
